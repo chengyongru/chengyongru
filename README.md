@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I maintain the nightly branch of [**nanobot**](https://github.com/HKUDS/nanobot) — an ultra-lightweight open-source AI agent framework.
+I maintain the nightly branch of [**nanobot**](https://github.com/HKUDS/nanobot) — an ultra-lightweight open-source AI agent.
 
 ### Interests
 
@@ -14,12 +14,9 @@ China University of Mining and Technology, Beijing — Resource Exploration Engi
 *Yes, the one that has nothing to do with any of the above.*
 
 ### Open Source Projects
-
-| Project | Description |
-|---------|-------------|
-| [nanobot](https://github.com/HKUDS/nanobot) | AI agent framework — nightly branch maintainer |
-| [wecom_aibot_sdk](https://github.com/chengyongru/wecom_aibot_sdk) | Enterprise WeChat AI bot WebSocket SDK |
-| [Nanopilot](https://github.com/chengyongru/Nanopilot) | Browser extension for AI agent chat |
+- [**nanobot**](https://github.com/HKUDS/nanobot) — AI agent, nightly branch maintainer
+- [**wecom_aibot_sdk**](https://github.com/chengyongru/wecom_aibot_sdk) — Enterprise WeChat AI bot WebSocket SDK
+- [**Nanopilot**](https://github.com/chengyongru/Nanopilot) — Browser extension for AI agent chat
 
 ### I Write About
 
