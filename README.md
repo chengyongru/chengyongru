@@ -23,3 +23,7 @@ China University of Mining and Technology, Beijing — Resource Exploration Engi
 Deep learning fundamentals (from the math up) · Malware analysis & engineering war stories
 
 → [Blog](https://chengyongru.github.io/) · [Email](mailto:chengyongru.ai@gmail.com)
+
+---
+
+![](https://komarev.com/ghpvc/?username=chengyongru&style=flat-square)
