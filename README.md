@@ -27,3 +27,5 @@ Deep learning fundamentals (from the math up) · Malware analysis & engineering 
 ---
 
 ![](https://komarev.com/ghpvc/?username=chengyongru&style=flat-square)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyongru&layout=compact&hide_title=true&bg_color=00000000&text_color=8b949e)
