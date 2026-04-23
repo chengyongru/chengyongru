@@ -11,7 +11,7 @@ I maintain the nightly branch of [**nanobot**](https://github.com/HKUDS/nanobot)
 
 ### Education
 
-China University of Mining and Technology, Beijing — Resource Exploration Engineering
+China University of Mining and Technology-Beijing — Resource Exploration Engineering
 
 *Yes, the one that has nothing to do with any of the above.*
 
