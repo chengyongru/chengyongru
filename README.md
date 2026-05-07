@@ -7,8 +7,6 @@ I maintain the nightly branch of [**nanobot**](https://github.com/HKUDS/nanobot)
 - **AI agents** — Agent loop architecture, memory consolidation, multi-channel integrations, security model
 - **Malware detection** — Building detection systems for PE files and malicious scripts
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyongru&layout=compact&hide_title=true&bg_color=00000000&text_color=8b949e)
-
 ### Education
 
 China University of Mining and Technology-Beijing — Resource Exploration Engineering
