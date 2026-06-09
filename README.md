@@ -1,29 +1,20 @@
-## Hi 👋
+## Hi, I'm chengyongru
 
-I maintain the nightly branch of [**nanobot**](https://github.com/HKUDS/nanobot) — an ultra-lightweight open-source AI agent.
+I'm one of the maintainers of [**nanobot**](https://github.com/HKUDS/nanobot), a lightweight open-source AI agent for tools, chats, and workflows.
 
-### Interests
+Most of my public work is there. I work on agent runtime behavior, WebUI and gateway reliability, chat-channel integrations, provider adapters, tests, reviews, and security hardening.
 
-- **AI agents** — Agent loop architecture, memory consolidation, multi-channel integrations, security model
-- **Malware detection** — Building detection systems for PE files and malicious scripts
+### Nanobot Work
 
-### Education
+- Agent loop, memory, MCP/tools, subagents, and long-running task behavior.
+- WebUI, gateway, session persistence, routing, and browser-facing reliability.
+- Chat channels, provider integrations, model routing, streaming behavior, and compatibility fixes.
+- Maintainer review, CI, test coverage, security boundaries, and regression cleanup.
 
-China University of Mining and Technology-Beijing — Resource Exploration Engineering
+### Writing
 
-*Yes, the one that has nothing to do with any of the above.*
+I write notes on machine learning fundamentals, nanobot internals, security, reverse engineering, and debugging at [chengyongru.github.io](https://chengyongru.github.io/).
 
-### Open Source Projects
-- [**nanobot**](https://github.com/HKUDS/nanobot) — AI agent, nightly branch maintainer
-- [**wecom_aibot_sdk**](https://github.com/chengyongru/wecom_aibot_sdk) — Enterprise WeChat AI bot WebSocket SDK
-- [**Nanopilot**](https://github.com/chengyongru/Nanopilot) — Browser extension for AI agent chat
+### Contact
 
-### I Write About
-
-Deep learning fundamentals (from the math up) · Malware analysis & engineering war stories
-
-→ [Blog](https://chengyongru.github.io/) · [Email](mailto:chengyongru.ai@gmail.com)
-
----
-
-![](https://komarev.com/ghpvc/?username=chengyongru&style=flat-square)
+[Blog](https://chengyongru.github.io/) · [Email](mailto:chengyongru.ai@gmail.com)
