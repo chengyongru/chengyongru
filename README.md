@@ -1,20 +1,19 @@
 ## Hi, I'm chengyongru
 
-I'm one of the maintainers of [**nanobot**](https://github.com/HKUDS/nanobot), a lightweight open-source AI agent for tools, chats, and workflows.
+I build and maintain open-source AI agent systems. Most of that work currently ships through [**nanobot**](https://github.com/HKUDS/nanobot), where I'm one of the maintainers.
 
-Most of my public work is there. I work on agent runtime behavior, WebUI and gateway reliability, chat-channel integrations, provider adapters, tests, reviews, and security hardening.
+I care less about making an agent work once than making it keep working: preserving the right state, recovering from provider failures, keeping tool boundaries explicit, and making long-running behavior understandable to the user.
 
-### Nanobot Work
+### Open-source work
 
-- Agent loop, memory, MCP/tools, subagents, and long-running task behavior.
-- WebUI, gateway, session persistence, routing, and browser-facing reliability.
-- Chat channels, provider integrations, model routing, streaming behavior, and compatibility fixes.
-- Maintainer review, CI, test coverage, security boundaries, and regression cleanup.
+At nanobot, I work across the agent runtime, WebUI and gateway, chat channels, provider integrations, tests, reviews, and security boundaries.
 
-### Writing
+I also maintain [**skills**](https://github.com/chengyongru/skills), a collection of reusable agent workflows for reviewing and fixing pull requests, verification, experiment planning, idea management, and technical writing.
 
-I write notes on machine learning fundamentals, nanobot internals, security, reverse engineering, and debugging at [chengyongru.github.io](https://chengyongru.github.io/).
+### Notes
+
+I occasionally write about agent systems, debugging, machine learning, and security at [chengyongru.github.io](https://chengyongru.github.io/).
 
 ### Contact
 
-[Blog](https://chengyongru.github.io/) · [Email](mailto:chengyongru.ai@gmail.com)
+[X](https://x.com/chengyongru) · [Blog](https://chengyongru.github.io/) · [Email](mailto:chengyongru.ai@gmail.com)
