@@ -1,5 +1,7 @@
 ## Hi, I'm chengyongru
 
+<a href="https://trendshift.io/developers/12137?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-12137" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/12137" alt="chengyongru | Trendshift" width="250" height="55"/></a>
+
 I build and maintain open-source AI agent systems. Most of that work currently ships through [**nanobot**](https://github.com/HKUDS/nanobot), where I'm one of the maintainers.
 
 I care less about making an agent work once than making it keep working: preserving the right state, recovering from provider failures, keeping tool boundaries explicit, and making long-running behavior understandable to the user.
