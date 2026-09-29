@@ -12,8 +12,8 @@ I also maintain [**skills**](https://github.com/chengyongru/skills), a repositor
 
 ### Notes
 
-I occasionally write about agent systems, debugging, machine learning, and security at [chengyongru.github.io](https://chengyongru.github.io/).
+I occasionally write about agent systems, debugging, machine learning, and security at [CYR'ML](https://chengyongru.com).
 
 ### Contact
 
-[X](https://x.com/chengyongru) · [Blog](https://chengyongru.github.io/) · [Email](mailto:chengyongru.ai@gmail.com)
+[X](https://x.com/chengyongru) · [Blog](https://chengyongru.com/) · [Email](mailto:chengyongru.ai@gmail.com)
